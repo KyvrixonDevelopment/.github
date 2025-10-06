@@ -1,6 +1,6 @@
 # Kyvrixon Development
-Making life easier through programming, one line at a time 🔥
+Making life easier, one line of code at a time 🔥
 
 ## Members
 - [@Kyvrixon](https://github.com/Kyvrixon) Founder & Lead Developer
-- [@CodeByJamie](https://github.com/CodeByJamie) Developer
+- [@CodeByJamie](https://github.com/CodeByJamie) Fullstack Developer
